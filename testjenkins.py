@@ -1,5 +1,6 @@
 #!/usr/bin/python 
 
-print "Jenkins working or not?"
+jenkins=raw_input("Is jenkins server up?")
+print jenkins
 
 
