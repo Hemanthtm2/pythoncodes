@@ -7,3 +7,8 @@ def printTwice(bruce):
 
 
 printTwice('Python')
+printTwice('Python'*4)
+
+h="Hi Iam Hemanth"
+
+printTwice(h)
