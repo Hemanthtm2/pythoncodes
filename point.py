@@ -16,3 +16,13 @@ print '('+str(blank.x)+','+str(blank.y)+')'
 print blank.x*blank.y
 print blank
 print id(blank)
+
+def printPoint(p):
+   print '('+str(p.x)+','+str(p.y)+')'
+
+
+
+
+
+
+printPoint(blank)
